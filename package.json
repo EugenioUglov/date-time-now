@@ -1,0 +1,24 @@
+{
+  "name": "date-time-now",
+  "version": "1.0.0",
+  "description": "Lightweight utilities to get the current formatted date and time.",
+  "main": "index.js",
+  "module": "index.js",
+  "types": "index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "import": "./index.js",
+      "require": "./index.js"
+    }
+  },
+  "keywords": [
+    "date",
+    "time",
+    "now",
+    "format",
+    "timestamp",
+    "javascript"
+  ],
+  "license": "MIT"
+}
