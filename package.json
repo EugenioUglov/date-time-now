@@ -1,6 +1,6 @@
 {
   "name": "@eugeniouglov/date-time-now",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight utilities to get the current formatted date and time.",
   "main": "index.js",
   "module": "index.js",
