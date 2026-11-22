@@ -12,6 +12,7 @@ console.log(getDateNow('-')); // e.g. "2026-11-22"
 
 console.log(getTimeNow()); // e.g. "00_48_10"
 console.log(getTimeNow(':')); // e.g. "00:48:10"
+```
 
 ## Support ☕🤗
 

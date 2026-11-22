@@ -1,5 +1,5 @@
 {
-  "name": "date-time-now",
+  "name": "@eugeniouglov/date-time-now",
   "version": "1.0.0",
   "description": "Lightweight utilities to get the current formatted date and time.",
   "main": "index.js",
@@ -15,7 +15,8 @@
   "keywords": [
     "date",
     "time",
-    "now",
+    "datetime",
+    "datetimenow",
     "format",
     "timestamp",
     "javascript"
